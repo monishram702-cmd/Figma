@@ -80,7 +80,8 @@ code for ss 4:
 <img width="430" height="833" alt="Screenshot 2025-10-16 084113" src="https://github.com/user-attachments/assets/96c0bd83-b2b9-4bd6-90d0-122d706ebae0" />
 <img width="331" height="736" alt="Screenshot 2025-10-16 084147" src="https://github.com/user-attachments/assets/5f12e8b5-dbf6-4196-be6d-ad3c1d9aee0d" />
 <img width="335" height="735" alt="Screenshot 2025-10-16 084208" src="https://github.com/user-attachments/assets/b9f593fe-c75b-4eb1-9b4d-9038ca380c45" />
-![Uploading Screenshot 2025-10-16 084224.png…]()
+<img width="353" height="651" alt="Screenshot 2025-10-16 084224" src="https://github.com/user-attachments/assets/501e24a8-50d9-41be-8947-5f6e9dd8f5a9" />
+
 
 
 
